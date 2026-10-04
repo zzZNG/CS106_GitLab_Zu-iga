@@ -2,3 +2,4 @@ Student Name: [Your Full Name]
 Student ID: [Your Student ID Number]
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git Bash Fundamentals
